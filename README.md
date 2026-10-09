@@ -10,7 +10,7 @@ Then remove this TODO item.
 ```
 
 Running at: <https://jpa03-staff.dokku-00.cs.ucsb.edu>
-
+ 
 # Configuring GitHub Pages for the documentation
 
 This repo contains Github Actions scripts that automatically create and publish documentation for the code:
