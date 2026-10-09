@@ -1,7 +1,7 @@
 # STARTER-jpa03
 
 
-Running at: <https://s-kyli.dokku-08.cs.ucsb.edu/>
+Running at: https://jpa03-s-kyli.dokku-08.cs.ucsb.edu/
  
 # Configuring GitHub Pages for the documentation
 
